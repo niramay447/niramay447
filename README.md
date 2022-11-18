@@ -27,7 +27,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-✔ <br>
+  <br>
 ✔ I’m currently working on a reproduction package of "Equilibrium Technology Diffusion, Trade, and Growth" by Perla, Tonetti, and Waugh**<br>
 ✔ I’m currently learning **Swift** & **ARKit**<br>
 ✔ I’m looking to collaborate on **Kaggle Competitions**<br>
