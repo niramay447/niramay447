@@ -28,9 +28,10 @@
 </p>
 
   <br>
-• I’m currently working on a reproduction package of "Equilibrium Technology Diffusion, Trade, and Growth" by Perla, Tonetti, and Waugh**<br>
+• I recently worked on a reproduction package of "Equilibrium Technology Diffusion, Trade, and Growth" by Perla, Tonetti, and Waugh<br>
 • I’m currently learning Swift & ARKit<br>
-• I’m looking to collaborate on Kaggle Competitions<br>
+• I'm pursuing the Machine Learning Scientist career track on DataCamp!<br>
+• I’m always looking to collaborate on Kaggle Competitions<br>
 • I regularly write articles on [Medium.com](https://medium.com/@niramay09) <br>
 • Come amuse me with crazy facts about random things<br>
 • Fun fact : *Squirrels eyes are positioned in a way which allows them to see behind them.*<br><br><br><br>
